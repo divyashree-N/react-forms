@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "United States of America",
+        "currency": "USD"
+    },
+    {
+        "id": 2,
+        "name": "India",
+        "currency": "INR"
+    },
+    {
+        "id": 3,
+        "name": "Europe",
+        "currency": "EUR"
+    },
+    {
+        "name": "China",
+        "currency": "YEN"
+    },
+    {
+        "id": 4,
+        "name": "United Arab Emirates",
+        "currency": "AED"
+    }
+]
